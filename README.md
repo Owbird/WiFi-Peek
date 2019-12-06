@@ -1,2 +1,2 @@
 # WiFi-Peek
-View all the passwords of WiFi networks on a PC
+View all the passwords of WiFi networks ever connected on a PC
