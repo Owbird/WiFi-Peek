@@ -1,14 +1,14 @@
 from os import system
 from subprocess import getoutput
 
-# Changin system color
+# Changing system color
 system('color a')
 
 print('            #####################################')
 print('            #                                   #')
 print('            #        WiFi Peek                  #')
 print('            #        version 1.0                #')
-print('            #        Author: Owbird             #')
+print('            #        Author: Turrim             #')
 print('            #        https://github.com/owbird  #')
 print('            #                                   #')
 print('            #####################################')
